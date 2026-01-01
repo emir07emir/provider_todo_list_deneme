@@ -1,16 +1,35 @@
-# provider_todo_list_deneme
+# 📝 Flutter Todo Uygulaması (Provider)
 
-A new Flutter project.
+Bu proje, **Flutter** kullanılarak geliştirilmiş basit bir **Todo List (Yapılacaklar Listesi)** uygulamasıdır.  
+Uygulamada **Provider (ChangeNotifier)** ile state management yapılmıştır.
 
-## Getting Started
+Kullanıcılar:
+- Yeni görev ekleyebilir
+- Mevcut görevleri silebilir
+- Görevleri ayrı bir güncelleme sayfasında düzenleyebilir
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Özellikler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Görev ekleme
+- Görev silme
+- Görev güncelleme
+- Provider ile state yönetimi
+- Basit ve anlaşılır arayüz
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Kullanılan Teknolojiler
+
+- Flutter
+- Dart
+- Provider (ChangeNotifier)
+
+---
+👨‍💻 Geliştirici
+
+İbrahim Emir Erdoğan
+Flutter & Mobile Developer
+## 📂 Proje Yapısı
+
